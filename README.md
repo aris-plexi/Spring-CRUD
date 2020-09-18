@@ -15,7 +15,7 @@ Then, proceed to run the app with your preferred IDE:
 - Finally every row of the table can be Updated/Deleted on the spot.
 
 <br></br>
-<img src="Trainers.PNG" alt="Trainers Table">
+<img src="myTrainer.jpg" alt="Trainers Table">
 <br></br>
 
 ## Technology Stack
